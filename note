@@ -1,0 +1,10 @@
+1. saya membuat index lalu saya include kan header.php dengan tujuan mengecek sesi dimana diwajibkan untuk login terlebih dahulu.
+2. lalu saya membuat file data yang diperlukakan dan tetap saya beri include header.php
+3. disetiap file data saya juga menginclude kan update data dan hapus data
+Fungsi fetch_assoc() / mysqli_fetch_assoc() digunakan untuk mengambil baris hasil sebagai array asosiatif.
+mysqli_query adalah nama fungsi php untuk menjalankan instruksi atau argumen ke mysql. ... Argumen ini harus pertipe string dan mengikuti aturan penulisan string didalam PHP.
+Fungsi mysql_num_rows() digunakan untuk mengetahui berapa banyak jumlah baris hasil pemanggilan fungsi mysql_query().
+post untuk mengumpulkan data yang diupload menggunakan method post tanpa batasan maksimum 
+get untuk mengambil data yang terdapat dalam query atau data didalam database 
+mengkonversi hasil query dari database menjadi array untuk mempermudah dalam tampilan tabel my sql fetch 
+
